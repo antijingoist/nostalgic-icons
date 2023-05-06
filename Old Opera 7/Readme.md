@@ -41,5 +41,4 @@ Icons based on Opera 7.54
 ![Mail_Send.png](./Mail_Send.png)
 ![Mail_Spam.png](./Mail_Spam.png)
 ![Mail_Thread.png](./Mail_Thread.png)
-![Readme.md](./Readme.md)
 ![Trash.png](./Trash.png)
