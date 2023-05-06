@@ -1,2 +1,4 @@
 # nostalgic-icons
-Icons based on past designs
+Icons based on past designs. Using these in Vivaldi themes: [https://themes.vivaldi.net/users/abbiegonzalez](https://themes.vivaldi.net/users/abbiegonzalez)
+
+
